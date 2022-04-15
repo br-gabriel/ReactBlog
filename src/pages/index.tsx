@@ -1,9 +1,9 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head'
+import Head from 'next/head';
 
 import { getPrismicClient } from '../services/prismic';
 
-import commonStyles from '../styles/common.module.scss';
+import commonStyles from '/styles/common.module.scss';
 import styles from './home.module.scss';
 
 interface Post {
@@ -33,8 +33,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1>Hello World</h1>
-        <p>TEstestestsetset</p>
+        <h1>Teste</h1>
+        <p>testestsets</p>
       </main>
     </>
   )

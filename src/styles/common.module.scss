@@ -1,1 +1,14 @@
-// TODO
+//Largura máxima do header e do post
+//Formatação do strong, a, ul li, h1 etc.
+body {
+    max-width: 1128px;
+    margin: 0 auto;
+    padding: 0 2rem;
+
+    h1 {
+        color: blue;
+    }
+    p {
+        color: red;
+    }
+}

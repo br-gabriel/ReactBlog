@@ -1,0 +1,135 @@
+{
+  "id": "0de352b6-e32b-4f69-9bcd-886ecf27cfca",
+  "uid": "consequatur-neque-fuga",
+  "type": "posts",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Deploy innovative models",
+        "spans": []
+      }
+    ],
+    "subtitle": [
+      {
+        "type": "paragraph",
+        "text": "Ea nisi ipsum exercitation laborum commodo elit aliqua aute ea eu commodo dolor velit.",
+        "spans": []
+      }
+    ],
+    "author": [
+      {
+        "type": "paragraph",
+        "text": "Tempor est consequat culpa amet quis tempor. Aute cillum tempor ut voluptate voluptate labore nisi Lorem ipsum laborum do irure. Cillum quis esse enim consectetur laboris id officia proident ut nostrud enim ipsum.",
+        "spans": []
+      }
+    ],
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": [
+          {
+            "type": "heading2",
+            "text": "Target 24/365 web-readiness",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Voluptate nisi tempor ullamco esse ullamco et sint laboris sint deserunt nulla non nisi do aliqua. Proident deserunt exercitation deserunt consequat.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": [
+          {
+            "type": "heading2",
+            "text": "Visualize dot-com ROI",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ipsum fugiat id Lorem duis.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": [
+          {
+            "type": "heading2",
+            "text": "Empower strategic e-business",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Veniam veniam fugiat laborum sint.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": [
+          {
+            "type": "heading2",
+            "text": "Maximize innovative partnerships",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Velit minim voluptate occaecat.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": [
+          {
+            "type": "heading2",
+            "text": "Iterate value-added web services",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Esse dolore anim ut sunt deserunt ut id non in.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": [
+          {
+            "type": "heading2",
+            "text": "Empower B2C convergence",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Qui eu consequat cupidatat proident ea reprehenderit eiusmod esse non tempor amet nulla officia labore consequat. Sunt Lorem velit excepteur aute. Dolore laborum irure id non adipisicing enim enim tempor.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
